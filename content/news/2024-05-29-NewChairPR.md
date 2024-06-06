@@ -35,7 +35,7 @@ date: 2024-05-31
     <td class="tg-0lax">
     </td>
    <td class="tg-0lax">
-      Dr-Ing. Dirk Zimmer
+      Dr. Dirk Zimmer
     </td>
     </tr>
 </table>
